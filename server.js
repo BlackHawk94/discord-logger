@@ -11,7 +11,7 @@ const Discord = require('discord.js');
 //constants
 const VERSION = '0.1.1';
 const TOKEN = 'NTY0NDE1NDE5OTY0NzE5MTA0.XKni6g.5EcJgTO0QWzh1v75OKMA1pQA4as';
-const CHANNEL = 'log';
+const CHANNEL = 'project-talk';
 
 //declarations
 var bot = new Discord.Client();
